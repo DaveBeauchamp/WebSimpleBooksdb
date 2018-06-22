@@ -1,0 +1,9 @@
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\bin\BooksWebApp.dll.config
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\bin\BooksWebApp.dll
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\bin\BooksWebApp.pdb
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\obj\Debug\BooksWebApp.csprojResolveAssemblyReference.cache
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\obj\Debug\BooksWebApp.csproj.CoreCompileInputs.cache
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\obj\Debug\BooksWebApp.dll
+E:\Desktop\Visual Studio projects\BooksWebService\BooksWebApp\obj\Debug\BooksWebApp.pdb
